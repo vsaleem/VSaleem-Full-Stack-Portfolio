@@ -1,11 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900");
 
-/*
-	Escape Velocity by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -96,6 +91,8 @@ input, select, textarea {
 		-ms-transition: none !important;
 		transition: none !important;
 	}
+
+/* FONT */
 
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
@@ -1505,84 +1502,7 @@ input, select, textarea {
 				background: #eee;
 			}
 
-/* Form */
 
-	form label {
-		display: block;
-		font-weight: 700;
-		color: #484d55;
-		margin: 0.25em 0 0.5em 0;
-	}
-
-	form input[type="text"],
-	form input[type="email"],
-	form input[type="password"],
-	form select,
-	form textarea {
-		-moz-transition: all .25s ease-in-out;
-		-webkit-transition: all .25s ease-in-out;
-		-ms-transition: all .25s ease-in-out;
-		transition: all .25s ease-in-out;
-		-webkit-appearance: none;
-		display: block;
-		border: 0;
-		background: #eee;
-		box-shadow: inset 0px 0px 1px 0px #a0a1a7;
-		border-radius: 0.35em;
-		width: 100%;
-		padding: 0.75em 1em 0.75em 1em;
-	}
-
-		form input[type="text"]:focus,
-		form input[type="email"]:focus,
-		form input[type="password"]:focus,
-		form select:focus,
-		form textarea:focus {
-			background: #f8f8f8;
-		}
-
-	form input[type="text"],
-	form input[type="email"]
-	input[type="password"] {
-		line-height: 1em;
-	}
-
-	form select {
-		line-height: 1em;
-	}
-
-	form textarea {
-		min-height: 8em;
-	}
-
-	form ul.actions {
-		margin-top: 0;
-	}
-
-	form ::-webkit-input-placeholder {
-		color: #555 !important;
-		font-style: italic;
-		line-height: 1.35em;
-	}
-
-	form :-moz-placeholder {
-		color: #555 !important;
-		font-style: italic;
-	}
-
-	form ::-moz-placeholder {
-		color: #555 !important;
-		font-style: italic;
-	}
-
-	form :-ms-input-placeholder {
-		color: #555 !important;
-		font-style: italic;
-	}
-
-	form ::-moz-focus-inner {
-		border: 0;
-	}
 
 /* Image */
 
@@ -2107,107 +2027,6 @@ input, select, textarea {
 			font-size: 0.9em;
 		}
 
-/* Nav */
-
-	#nav {
-		position: absolute;
-		display: block;
-		top: 2.5em;
-		left: 0;
-		width: 100%;
-		text-align: center;
-	}
-
-		#nav > ul {
-			display: inline-block;
-			border-radius: 0.35em;
-			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
-			padding: 0 1.5em 0 1.5em;
-		}
-
-			#nav > ul > li {
-				display: inline-block;
-				text-align: center;
-				padding: 0 1.5em 0 1.5em;
-			}
-
-				#nav > ul > li > ul {
-					display: none;
-				}
-
-				#nav > ul > li > a, #nav > ul > li > span {
-					display: block;
-					color: #eee;
-					color: rgba(255, 255, 255, 0.75);
-					text-transform: uppercase;
-					text-decoration: none;
-					font-size: 0.7em;
-					letter-spacing: 0.25em;
-					height: 5em;
-					line-height: 5em;
-					-moz-transition: all .25s ease-in-out;
-					-webkit-transition: all .25s ease-in-out;
-					-o-transition: all .25s ease-in-out;
-					-ms-transition: all .25s ease-in-out;
-					transition: all .25s ease-in-out;
-					outline: 0;
-				}
-
-				#nav > ul > li:hover > a {
-					color: #fff;
-				}
-
-				#nav > ul > li.active > a, #nav > ul > li.active > span {
-					color: #fff;
-				}
-
-	.dropotron {
-		background: #222835 url("images/overlay.png");
-		background-color: rgba(44, 50, 63, 0.925);
-		padding: 1.25em 1em 1.25em 1em;
-		border-radius: 0.35em;
-		box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
-		min-width: 12em;
-		text-align: left;
-		margin-top: -1.25em;
-		margin-left: -1px;
-		list-style: none;
-	}
-
-		.dropotron.level-0 {
-			margin-top: -1px;
-			margin-left: 0;
-			border-top-left-radius: 0;
-			border-top-right-radius: 0;
-		}
-
-		.dropotron a, .dropotron span {
-			-moz-transition: all .25s ease-in-out;
-			-webkit-transition: all .25s ease-in-out;
-			-ms-transition: all .25s ease-in-out;
-			transition: all .25s ease-in-out;
-			display: block;
-			color: #eee;
-			color: rgba(255, 255, 255, 0.75);
-			text-transform: uppercase;
-			text-decoration: none;
-			font-size: 0.7em;
-			letter-spacing: 0.25em;
-			border-top: solid 1px rgba(255, 255, 255, 0.15);
-			line-height: 3em;
-		}
-
-		.dropotron li {
-			padding-left: 0;
-		}
-
-			.dropotron li:first-child a, .dropotron li:first-child span {
-				border-top: 0;
-			}
-
-			.dropotron li:hover > a, .dropotron li:hover > span {
-				color: #fff;
-			}
 
 /* Intro */
 
@@ -2520,11 +2339,6 @@ input, select, textarea {
 					padding-top: 0;
 				}
 
-		/* Nav */
-
-			#nav {
-				display: none;
-			}
 
 		/* Logo */
 
@@ -2777,9 +2591,9 @@ input, select, textarea {
 				display: none;
 			}
 
-			header.style1 {
+			/* header.style1 {
 				padding: 0 0 1em 0;
-			}
+			} */
 
 				header.style1 h2 {
 					font-size: 1.5em;
@@ -2956,12 +2770,12 @@ input, select, textarea {
 			#footer {
 				padding-bottom: 0;
 			}
-
+/* 
 				#footer header.style1 {
 					padding-bottom: 0;
 					margin-bottom: 2em;
 					border-bottom: 0;
-				}
+				} */
 
 				#footer .feature-list {
 					border-top: 0;
