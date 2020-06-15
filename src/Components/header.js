@@ -8,7 +8,7 @@ function Header(props){
             {/* <!-- Logo --> */}
             <div id="logo">
                 <h1>Greetings! My name is Victoria!</h1>
-                <p>I am a Software Engineer with a background in psychology that has developed skills in JavaScript, CSS, and Express.<br />
+                <p>I am a Software Engineer with a background in  digital art and psychology that has developed skills in JavaScript, Node.js, and Express.<br />
                 </p>
             </div>
         </section>
