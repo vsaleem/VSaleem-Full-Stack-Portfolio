@@ -1,7 +1,7 @@
 import React from 'react';
 import GoodReadMe from '../images/Good-Readme-ScreenShot.png';
 import NoteTaker from "../images/NOTE TAKER - SCRN SHOT.png";
-import BurgerApp from "../images/pic04.jpg";
+import BurgerApp from "../images/healthy-turkey-burger.jpg";
 
 function Projects(props){
     return (

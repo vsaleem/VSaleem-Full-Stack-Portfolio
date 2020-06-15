@@ -6,9 +6,6 @@ import Projects from './Components/projects';
 import Header from './Components/header';
 import AboutMe from './Components/intro';
 import Skills from './Components/skills'
-// import './assets/js/util';
-// import './assets/sass/libs';
-// import './assets/webfonts'
 
 class App extends Component {
     render() {
@@ -23,5 +20,4 @@ class App extends Component {
         )
     }
 }
-
 export default App;
