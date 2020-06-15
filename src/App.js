@@ -3,7 +3,7 @@ import './assets/css/main.css';
 import './assets/js/main';
 import Footer from "./Components/footer";
 import Projects from './Components/projects';
-
+import Header from './Components/header';
 // import './assets/js/util';
 // import './assets/sass/libs';
 // import './assets/webfonts'
@@ -11,19 +11,8 @@ import Projects from './Components/projects';
 class App extends Component {
     render() {
         return (
-            <div id="page-wrapper">
-			{/* <!-- Header --> */}
-				<section id="header" className="wrapper">
-
-					{/* <!-- Logo --> */}
-						<div id="logo">
-							<h1>Greetings! My name is Victoria!</h1>
-							<p>I am a Software Engineer with a background in psychology that has developed skills in JavaScript, CSS, and Express.<br />
-							</p>
-						</div>
-
-				</section>
-
+		<div id="page-wrapper">
+			<Header />
 			{/* <!-- Intro --> */}
 				<section id="intro" className="wrapper style1">
 					<div className="title">About Me</div>
