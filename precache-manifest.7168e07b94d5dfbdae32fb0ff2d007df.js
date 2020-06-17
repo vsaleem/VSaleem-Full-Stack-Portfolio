@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ec0aeafcbb5a5a39ce3a30e8e350507",
+    "revision": "e9388b1b27698515abf58cf0a7c28108",
     "url": "/VSaleem-Full-Stack-Portfolio/index.html"
   },
   {
-    "revision": "e5e8162fd9ea08614ffd",
+    "revision": "efc76a73042085f97eea",
     "url": "/VSaleem-Full-Stack-Portfolio/static/css/main.d6f71172.chunk.css"
   },
   {
-    "revision": "0189ccc1c6e81f2dec22",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.cb8cc966.chunk.js"
+    "revision": "e802b4a19cd0a3a07d84",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.29adf440.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.cb8cc966.chunk.js.LICENSE.txt"
+    "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.29adf440.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e5e8162fd9ea08614ffd",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/js/main.fd1ea842.chunk.js"
+    "revision": "efc76a73042085f97eea",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/js/main.2cbba5b8.chunk.js"
   },
   {
     "revision": "268881e753af0bec332e",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8b45f2cb348217c320b24d386f5096aa",
     "url": "/VSaleem-Full-Stack-Portfolio/static/media/Good-Readme-ScreenShot.8b45f2cb.png"
+  },
+  {
+    "revision": "c2139d5a8a19d12dc5c4c5a686d2a2b9",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/media/Hot-Restaurant-Screen-Shot.c2139d5a.png"
   },
   {
     "revision": "e19c2aeef5dd4b5fabc807224f349757",
@@ -94,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef3df98419d143d9617fe163bf4edc0b",
     "url": "/VSaleem-Full-Stack-Portfolio/static/media/fa-solid-900.ef3df984.eot"
+  },
+  {
+    "revision": "7c6e1ea3ae4d98b2f9a5550c36fc959a",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/media/healthy-turkey-burger.7c6e1ea3.jpg"
   },
   {
     "revision": "5ead4a385fb2ab5534de8e55899071d9",

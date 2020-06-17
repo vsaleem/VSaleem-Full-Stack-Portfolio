@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/VSaleem-Full-Stack-Portfolio/static/css/main.d6f71172.chunk.css",
-    "main.js": "/VSaleem-Full-Stack-Portfolio/static/js/main.fd1ea842.chunk.js",
-    "main.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/main.fd1ea842.chunk.js.map",
+    "main.js": "/VSaleem-Full-Stack-Portfolio/static/js/main.2cbba5b8.chunk.js",
+    "main.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/main.2cbba5b8.chunk.js.map",
     "runtime-main.js": "/VSaleem-Full-Stack-Portfolio/static/js/runtime-main.4ad39c9b.js",
     "runtime-main.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/runtime-main.4ad39c9b.js.map",
-    "static/js/2.cb8cc966.chunk.js": "/VSaleem-Full-Stack-Portfolio/static/js/2.cb8cc966.chunk.js",
-    "static/js/2.cb8cc966.chunk.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/2.cb8cc966.chunk.js.map",
+    "static/js/2.29adf440.chunk.js": "/VSaleem-Full-Stack-Portfolio/static/js/2.29adf440.chunk.js",
+    "static/js/2.29adf440.chunk.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/2.29adf440.chunk.js.map",
     "index.html": "/VSaleem-Full-Stack-Portfolio/index.html",
-    "precache-manifest.a65888a9e364f4887e097f2ba5fa7f10.js": "/VSaleem-Full-Stack-Portfolio/precache-manifest.a65888a9e364f4887e097f2ba5fa7f10.js",
+    "precache-manifest.7168e07b94d5dfbdae32fb0ff2d007df.js": "/VSaleem-Full-Stack-Portfolio/precache-manifest.7168e07b94d5dfbdae32fb0ff2d007df.js",
     "service-worker.js": "/VSaleem-Full-Stack-Portfolio/service-worker.js",
     "static/css/main.d6f71172.chunk.css.map": "/VSaleem-Full-Stack-Portfolio/static/css/main.d6f71172.chunk.css.map",
-    "static/js/2.cb8cc966.chunk.js.LICENSE.txt": "/VSaleem-Full-Stack-Portfolio/static/js/2.cb8cc966.chunk.js.LICENSE.txt",
+    "static/js/2.29adf440.chunk.js.LICENSE.txt": "/VSaleem-Full-Stack-Portfolio/static/js/2.29adf440.chunk.js.LICENSE.txt",
     "static/media/Good-Readme-ScreenShot.png": "/VSaleem-Full-Stack-Portfolio/static/media/Good-Readme-ScreenShot.8b45f2cb.png",
+    "static/media/Hot-Restaurant-Screen-Shot.png": "/VSaleem-Full-Stack-Portfolio/static/media/Hot-Restaurant-Screen-Shot.c2139d5a.png",
     "static/media/NOTE TAKER - SCRN SHOT.png": "/VSaleem-Full-Stack-Portfolio/static/media/NOTE TAKER - SCRN SHOT.e19c2aee.png",
-    "static/media/main.css": "/VSaleem-Full-Stack-Portfolio/static/media/overlay.5ead4a38.png"
+    "static/media/main.css": "/VSaleem-Full-Stack-Portfolio/static/media/overlay.5ead4a38.png",
+    "static/media/healthy-turkey-burger.jpg": "/VSaleem-Full-Stack-Portfolio/static/media/healthy-turkey-burger.7c6e1ea3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4ad39c9b.js",
-    "static/js/2.cb8cc966.chunk.js",
+    "static/js/2.29adf440.chunk.js",
     "static/css/main.d6f71172.chunk.css",
-    "static/js/main.fd1ea842.chunk.js"
+    "static/js/main.2cbba5b8.chunk.js"
   ]
 }
