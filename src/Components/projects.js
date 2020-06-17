@@ -1,7 +1,8 @@
 import React from 'react';
 import GoodReadMe from '../images/Good-Readme-ScreenShot.png';
 import NoteTaker from "../images/NOTE TAKER - SCRN SHOT.png";
-import BurgerApp from '../images/healthy-turkey-burger.jpg'
+import BurgerApp from '../images/healthy-turkey-burger.jpg';
+import HotRestaurant from '../images/Hot-Restaurant-Screen-Shot.png'
 
 function Projects(props){
     return (
@@ -47,8 +48,22 @@ function Projects(props){
                     </ul>
                 </section>
             </div>
+
+
+            {/* <!-- HOT RESTAURANT PROJECT --> */}
+            <div className="col-4 col-12-medium">
+                <section className="highlight">
+                    <a href="https://github.com/vsaleem/hotRestaurant" className="image featured"><img src={HotRestaurant} alt="Hot-Restaurant Screen-Shot"/></a>
+                    <h3><a href="https://github.com/vsaleem/hotRestaurant">HOT RESTAURANT APP</a></h3>
+                    <p> </p>
+                    <ul className="actions">
+                        <li><a href="https://github.com/vsaleem/hotRestaurant" className="button style1">Learn More</a></li>
+                    </ul>
+                </section>
             </div>
-            </div>
+
+        </div>
+        </div>
         </section>
         </>
     )
