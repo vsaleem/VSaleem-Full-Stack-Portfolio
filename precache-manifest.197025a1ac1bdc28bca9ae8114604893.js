@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9388b1b27698515abf58cf0a7c28108",
+    "revision": "437ed55c236644ae2307c77ee41518b4",
     "url": "/VSaleem-Full-Stack-Portfolio/index.html"
   },
   {
-    "revision": "efc76a73042085f97eea",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/css/main.d6f71172.chunk.css"
+    "revision": "515a4135ae77c415aee6",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/css/main.ae33f891.chunk.css"
   },
   {
     "revision": "e802b4a19cd0a3a07d84",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.29adf440.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efc76a73042085f97eea",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/js/main.2cbba5b8.chunk.js"
+    "revision": "515a4135ae77c415aee6",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/js/main.add959a9.chunk.js"
   },
   {
     "revision": "268881e753af0bec332e",
     "url": "/VSaleem-Full-Stack-Portfolio/static/js/runtime-main.4ad39c9b.js"
   },
   {
-    "revision": "8b45f2cb348217c320b24d386f5096aa",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/media/Good-Readme-ScreenShot.8b45f2cb.png"
+    "revision": "d306f04dc76f336fc0743c9d5691b9e8",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/media/CLI - Readme - App - Screen Shot.d306f04d.png"
   },
   {
     "revision": "c2139d5a8a19d12dc5c4c5a686d2a2b9",

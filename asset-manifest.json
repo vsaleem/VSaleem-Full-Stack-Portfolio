@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/VSaleem-Full-Stack-Portfolio/static/css/main.d6f71172.chunk.css",
-    "main.js": "/VSaleem-Full-Stack-Portfolio/static/js/main.2cbba5b8.chunk.js",
-    "main.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/main.2cbba5b8.chunk.js.map",
+    "main.css": "/VSaleem-Full-Stack-Portfolio/static/css/main.ae33f891.chunk.css",
+    "main.js": "/VSaleem-Full-Stack-Portfolio/static/js/main.add959a9.chunk.js",
+    "main.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/main.add959a9.chunk.js.map",
     "runtime-main.js": "/VSaleem-Full-Stack-Portfolio/static/js/runtime-main.4ad39c9b.js",
     "runtime-main.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/runtime-main.4ad39c9b.js.map",
     "static/js/2.29adf440.chunk.js": "/VSaleem-Full-Stack-Portfolio/static/js/2.29adf440.chunk.js",
     "static/js/2.29adf440.chunk.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/2.29adf440.chunk.js.map",
     "index.html": "/VSaleem-Full-Stack-Portfolio/index.html",
-    "precache-manifest.7168e07b94d5dfbdae32fb0ff2d007df.js": "/VSaleem-Full-Stack-Portfolio/precache-manifest.7168e07b94d5dfbdae32fb0ff2d007df.js",
+    "precache-manifest.197025a1ac1bdc28bca9ae8114604893.js": "/VSaleem-Full-Stack-Portfolio/precache-manifest.197025a1ac1bdc28bca9ae8114604893.js",
     "service-worker.js": "/VSaleem-Full-Stack-Portfolio/service-worker.js",
-    "static/css/main.d6f71172.chunk.css.map": "/VSaleem-Full-Stack-Portfolio/static/css/main.d6f71172.chunk.css.map",
+    "static/css/main.ae33f891.chunk.css.map": "/VSaleem-Full-Stack-Portfolio/static/css/main.ae33f891.chunk.css.map",
     "static/js/2.29adf440.chunk.js.LICENSE.txt": "/VSaleem-Full-Stack-Portfolio/static/js/2.29adf440.chunk.js.LICENSE.txt",
-    "static/media/Good-Readme-ScreenShot.png": "/VSaleem-Full-Stack-Portfolio/static/media/Good-Readme-ScreenShot.8b45f2cb.png",
+    "static/media/CLI - Readme - App - Screen Shot.png": "/VSaleem-Full-Stack-Portfolio/static/media/CLI - Readme - App - Screen Shot.d306f04d.png",
     "static/media/Hot-Restaurant-Screen-Shot.png": "/VSaleem-Full-Stack-Portfolio/static/media/Hot-Restaurant-Screen-Shot.c2139d5a.png",
     "static/media/NOTE TAKER - SCRN SHOT.png": "/VSaleem-Full-Stack-Portfolio/static/media/NOTE TAKER - SCRN SHOT.e19c2aee.png",
     "static/media/main.css": "/VSaleem-Full-Stack-Portfolio/static/media/overlay.5ead4a38.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ad39c9b.js",
     "static/js/2.29adf440.chunk.js",
-    "static/css/main.d6f71172.chunk.css",
-    "static/js/main.2cbba5b8.chunk.js"
+    "static/css/main.ae33f891.chunk.css",
+    "static/js/main.add959a9.chunk.js"
   ]
 }
