@@ -1,5 +1,5 @@
 import React from 'react';
-import GoodReadMe from '../images/Good-Readme-ScreenShot.png';
+import GoodReadMe from '../images/CLI - Readme - App - Screen Shot.png';
 import NoteTaker from "../images/NOTE TAKER - SCRN SHOT.png";
 import BurgerApp from '../images/healthy-turkey-burger.jpg';
 import HotRestaurant from '../images/Hot-Restaurant-Screen-Shot.png'
@@ -16,7 +16,7 @@ function Projects(props){
             {/* <!-- README PROJECT --> */}
             <div className="col-4 col-12-medium">
                 <section className="highlight">
-                    <a href="https://github.com/vsaleem/Wk9-HW-Good-READme" className="image featured"><img src={GoodReadMe} alt="Good-Readme-ScreenShot"/></a>
+                    <a href="https://github.com/vsaleem/Wk9-HW-Good-READme" className="image featured"><img src={GoodReadMe} alt="Good-Readme-CLI-ScreenShot"/></a>
                     <h3><a href="https://github.com/vsaleem/Wk9-HW-Good-READme">GOOD README GENERATOR</a></h3>
                     <p>This project uses a command-line application that dynamically generates a README.md file by using information prompted by the user and from the user’s GitHub account. This application is invoked with the following command: “node index”.</p>
                     <ul className="actions">
@@ -55,7 +55,7 @@ function Projects(props){
                 <section className="highlight">
                     <a href="https://github.com/vsaleem/hotRestaurant" className="image featured"><img src={HotRestaurant} alt="Hot-Restaurant Screen-Shot"/></a>
                     <h3><a href="https://github.com/vsaleem/hotRestaurant">HOT RESTAURANT APP</a></h3>
-                    <p> </p>
+                    <p>Basic app demonstrating Node and Express with jQuery. Overall purpose is to help schedule reservation requests. Restaurant has just 5 tables available. First five requests get a reservation, every request after that is sent to the waiting list.</p>
                     <ul className="actions">
                         <li><a href="https://github.com/vsaleem/hotRestaurant" className="button style1">Learn More</a></li>
                     </ul>
