@@ -163,6 +163,7 @@
 
 	em, i {
 		font-style: italic;
+		padding: block;
 	}
 
 	hr {
@@ -588,14 +589,14 @@
 		max-width: 58em;
 		margin-left: auto;
 		margin-right: auto;
-		position: relative;
+		position: auto;
 		top: 0.75em;
 
 		section {
 			border-top: solid 1px #eee;
 			padding-top: 3em;
 			padding-left: 5em;
-			position: relative;
+			position: auto;
 		}
 
 		@include breakpoint('>medium') {
@@ -1026,8 +1027,8 @@
 
 /* Main */
 
-	#main {
-	}
+	// #main {
+	// }
 
 /* Footer */
 
@@ -1547,7 +1548,7 @@
 			.feature-list {
 				section {
 					padding-top: 2em;
-					padding-left: 4em;
+					padding-left: 6em;
 				}
 
 				h3 {
@@ -1620,6 +1621,10 @@
 				h1 {
 					font-size: 1.5em;
 					letter-spacing: 0.2em;
+				}
+
+				h2 {
+					padding-top: .5em
 				}
 
 				p {

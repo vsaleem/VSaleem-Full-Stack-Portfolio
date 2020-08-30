@@ -139,6 +139,7 @@ input, select, textarea {
 
 	em, i {
 		font-style: italic;
+		padding: 10;
 	}
 
 	hr {
@@ -1541,7 +1542,7 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
-/* Button */
+/* Buttons */
 
 	input[type="button"],
 	input[type="submit"],
@@ -1602,6 +1603,7 @@ input, select, textarea {
 			button.style1:hover,
 			.button.style1:hover {
 				background-color: #f98780;
+
 			}
 
 			input[type="button"].style1:active,
@@ -1609,7 +1611,7 @@ input, select, textarea {
 			input[type="reset"].style1:active,
 			button.style1:active,
 			.button.style1:active {
-				background-color: #d96760;
+				background-color: #CAE86F;
 			}
 
 		input[type="button"].style2,
@@ -1643,7 +1645,7 @@ input, select, textarea {
 		input[type="reset"].style3,
 		button.style3,
 		.button.style3 {
-			background: #2f333b url("images/overlay.png");
+			background: #e97770 url("images/overlay.png");
 			color: #fff;
 		}
 
@@ -1652,7 +1654,7 @@ input, select, textarea {
 			input[type="reset"].style3:hover,
 			button.style3:hover,
 			.button.style3:hover {
-				background-color: #3f434b;
+				background-color: #f98780;
 			}
 
 			input[type="button"].style3:active,
@@ -1660,7 +1662,7 @@ input, select, textarea {
 			input[type="reset"].style3:active,
 			button.style3:active,
 			.button.style3:active {
-				background-color: #1f232b;
+				background-color: #CAE86F;
 			}
 
 /* List */
@@ -1754,7 +1756,7 @@ input, select, textarea {
 	}
 
 		.feature-list section {
-			border-top: solid 1px #eee;
+			/* border-top: solid 1px #eee; */
 			padding-top: 3em;
 			padding-left: 5em;
 			position: relative;
@@ -1774,6 +1776,7 @@ input, select, textarea {
 			margin: -0.35em 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
+			padding-top: .3em;
 		}
 
 			.feature-list h3:before {
@@ -1796,7 +1799,14 @@ input, select, textarea {
 		}
 
 		.feature-list.small h3:before {
-			font-size: 0.8em;
+			font-size: .098em;
+		}
+
+		.feature-list i {
+			/* color: #e97770 !important; */
+			margin: 0.35em 0 0.75em 10;
+			/* font-size: 1.15em; */
+			/* letter-spacing: 0.05em; */
 		}
 
 /* Icons */
@@ -1904,7 +1914,7 @@ input, select, textarea {
 				left: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("images/shadow.png");
+				/* background: url("images/shadow.png"); */
 			}
 
 			.wrapper .title:after {
@@ -1918,9 +1928,10 @@ input, select, textarea {
 				right: -35px;
 				width: 35px;
 				height: 38px;
-				background: url("images/shadow.png");
+				/* background: url("images/shadow.png"); */
 			}
 
+		/* ABOUT ME SECTION */
 		.wrapper.style1 {
 			background: #e97770 url("images/overlay.png");
 			color: #eee;
@@ -1964,8 +1975,7 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
-/* Header */
-
+/* Header Section*/
 	#header {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -1981,7 +1991,7 @@ input, select, textarea {
 		justify-content: center;
 		position: relative;
 		height: 24em;
-		background: url("../../images/banner.jpg") center center;
+		background: url("../../images/WFHGlitch.png") center center;
 		background-size: cover;
 		padding: 0;
 	}
@@ -2000,7 +2010,7 @@ input, select, textarea {
 			height: 35em;
 		}
 
-/* Logo */
+/* Header - Logo */
 
 	#logo {
 		width: 100%;
@@ -2019,7 +2029,8 @@ input, select, textarea {
 
 		#logo p {
 			color: #eee;
-			color: rgba(255, 255, 255, 0.5);
+			/* color: rgba(255, 255, 255, 0.5); */
+			color: #fff;
 			text-transform: uppercase;
 			margin: 1.25em 0 0 0;
 			display: block;
@@ -2091,7 +2102,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #282b34 url("images/overlay.png");
+		background: #773344 url("images/overlay.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 		padding-bottom: 6em;
@@ -2158,7 +2169,7 @@ input, select, textarea {
 			}
 
 		#footer .title {
-			background: #282b34 url("images/overlay.png");
+			background: #773344 url("images/overlay.png");
 			color: #eee;
 		}
 
@@ -2181,11 +2192,11 @@ input, select, textarea {
 		}
 
 			#footer .feature-list section {
-				border-top-color: rgba(255, 255, 255, 0.05);
+				border-top-color: #773344;
 			}
 
 			#footer .feature-list h3:before {
-				background: #3d4249 url("images/overlay.png");
+				background: #773344 url("images/overlay.png");
 			}
 
 /* Copyright */
@@ -2708,6 +2719,10 @@ input, select, textarea {
 					letter-spacing: 0.2em;
 				}
 
+				#logo h2 {
+					padding-top: .5em;
+				}
+
 				#logo p {
 					margin: 1.25em 0 0 0;
 					display: block;
@@ -2781,19 +2796,6 @@ input, select, textarea {
 					margin-right: auto;
 					width: 9em;
 				}
-
-			 	#location {
-					margin-left: auto;
-					margin-right: auto;
-					width: 10.25em;
-				} 
-
-				#social {
-					padding-top: .75em;
-					margin-left: auto;
-					margin-right: auto;
-					width: 10em
-				} 
 
 				#email {
 					margin-left: auto;
