@@ -1,4 +1,5 @@
-import React from "react";
+import React from 'react';
+import Pdf from '../assets/css/Victoria A.+Saleem_Front End Engineer-Resume.docx.pdf';
 
 function Header(props) {
 	return (
@@ -16,7 +17,7 @@ function Header(props) {
 					</h1>
 
 					{/* Button to Resume */}
-					<a href='#' className='resume-link btn-text'>
+					<a href={Pdf} className='resume-link btn-text'>
 						Link to my Resume
 					</a>
 				</div>
