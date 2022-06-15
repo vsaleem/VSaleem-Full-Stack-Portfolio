@@ -1,0 +1,23 @@
+/* Universal Selector */
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: "Calibre", "Inter", "San Francisco", "SF Pro Text", -apple-system,
+		system-ui, sans-serif;
+	font-weight: 400;
+	color: $color-gray;
+	/* font-size: 14pt; */
+	line-height: 1.75em;
+	padding: 1rem;
+	box-sizing: border-box;
+}

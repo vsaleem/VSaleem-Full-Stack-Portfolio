@@ -1,0 +1,38 @@
+.composition {
+	position: relative;
+
+	&__photo {
+		width: 55%;
+		box-shadow: 0 1.5rem 4rem rgba($color-primary-dark, 0.4);
+		border-radius: 0.2rem;
+		position: absolute;
+		z-index: 10;
+		transition: all 0.2s;
+		outline-offset: 0.15rem;
+
+		&_p1 {
+			left: 30%;
+			top: 0;
+		}
+
+		&_p2 {
+			right: 0;
+			top: 2rem;
+		}
+		&_p3 {
+			left: 0%;
+			top: -1.2rem;
+		}
+
+		&:hover {
+			outline: 0.5rem solid $color-secondary-blue;
+			transform: scale(1.05) translateY(-0.5rem);
+			box-shadow: 0 2.5rem 4rem rgba($color-primary-dark, 0.5);
+			z-index: 20;
+		}
+	}
+	// Selects photos that are NOT hovered
+	&:hover &__photo:not(:hover) {
+		transform: scale(0.95);
+	}
+}

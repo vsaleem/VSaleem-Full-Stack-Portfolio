@@ -1,0 +1,23 @@
+/* TECHNICAL PROFICIENCIES SECTION */
+.skill-icon {
+	padding: 1rem 2rem;
+	color: $color-primary;
+
+	&:hover {
+		color: $color-secondary-green;
+	}
+}
+
+span {
+	font-family: "SF Mono", "Fira Code", "Mono", "Roboto Mono", monospace;
+	font-size: 1.6rem;
+}
+.section-title {
+	padding-top: 3.2rem;
+}
+.skills-section__container {
+	position: inherit;
+	top: 10%;
+	left: 10%;
+	text-align: left;
+}

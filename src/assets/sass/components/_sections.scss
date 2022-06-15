@@ -1,0 +1,56 @@
+.about-me-section {
+	background-color: $color-off-white;
+	padding: 20rem 0;
+	margin-top: -10vh;
+	// clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
+}
+
+.skills-section {
+	padding: 10rem 0 20rem 0;
+	background-image: $color-background;
+	background-size: 100%;
+	background-position: top;
+	clip-path: polygon(
+		30% 0,
+		70% 0,
+		70% 4%,
+		100% 4%,
+		100% 100%,
+		0 100%,
+		0 4%,
+		30% 4%
+	);
+	margin-top: -10vh;
+}
+
+.projects-section {
+	background-color: $color-off-white;
+	padding: 10rem 0 20rem 0;
+	margin-top: -10vh;
+	clip-path: polygon(
+		30% 0,
+		70% 0,
+		70% 2%,
+		100% 2%,
+		100% 100%,
+		0 100%,
+		0 2%,
+		30% 2%
+	);
+}
+
+.footer-section {
+	margin-top: -5vh;
+	padding: 10rem 0 5rem 0;
+	background-image: $color-background;
+	clip-path: polygon(
+		30% 0,
+		70% 0,
+		70% 5%,
+		100% 5%,
+		100% 100%,
+		0 100%,
+		0 5%,
+		30% 5%
+	);
+}

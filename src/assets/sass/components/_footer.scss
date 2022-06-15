@@ -1,0 +1,20 @@
+/* FOOTER SECTION */
+.contact-links {
+	.heading-tertiary {
+		color: $color-secondary-purple;
+	}
+}
+
+.contact-links-row ul {
+	display: flex;
+	list-style: none;
+	text-align: center;
+	padding: 0 10rem;
+	position: inherit;
+}
+.linked-icon {
+	color: $color-secondary-purple;
+	&:hover {
+		color: $color-secondary-green;
+	}
+}

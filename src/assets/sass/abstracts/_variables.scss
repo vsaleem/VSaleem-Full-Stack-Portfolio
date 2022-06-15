@@ -1,0 +1,24 @@
+$color-primary: #dc05e4;
+$color-primary-dark: #080708;
+$color-primary-light: #98ce00;
+
+$color-off-white: #fcfcfc;
+$color-white: #ffffff;
+$color-gray: #919499;
+
+$color-light-purple: #f6c5f8;
+$color-light-yellow: #e7fad2;
+
+$color-secondary-purple: #a954b3;
+$color-secondary-pink: #ff13b0;
+$color-secondary-green: #3bee44;
+$color-secondary-blue: #4cc9f0;
+
+$color-background: linear-gradient(
+	to right top,
+	rgba($color-light-yellow, 1),
+	rgba($color-light-purple, 2)
+);
+
+//Font
+$default-font-size: 1.8rem;

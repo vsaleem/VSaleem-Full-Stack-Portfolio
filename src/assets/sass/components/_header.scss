@@ -1,0 +1,76 @@
+.header {
+	height: 100vh;
+	background-image: linear-gradient(
+			to right top,
+			/*rgba($color-primary-dark, 0.8),*/ rgba($color-primary-light, 0.2),
+			rgba($color-primary, 0.5)
+		),
+		url("./images/CleanWork2.png");
+	background-size: cover;
+	background-position: bottom;
+	position: relative;
+	clip-path: polygon(
+		0 0,
+		100% 0,
+		100% 97%,
+		70% 97%,
+		70% 100%,
+		30% 100%,
+		30% 97%,
+		0 97%
+	);
+
+	// '&' copies element selector name so we can nest
+	&__logo-box {
+		position: absolute;
+		top: 4rem;
+		left: 4rem;
+	}
+
+	&__text-box {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		text-align: center;
+	}
+
+	&-primary {
+		color: $color-white;
+		text-transform: uppercase;
+
+		/* removes jiggliness */
+		backface-visibility: hidden;
+		margin-bottom: 6rem;
+	}
+
+	&-primary--name {
+		display: block;
+		font-size: 4rem;
+		font-weight: 400;
+		letter-spacing: 0.5rem;
+
+		/* initiates animation */
+		animation-name: moveInLeft;
+		animation-duration: 1.5s;
+		animation-timing-function: ease-out;
+
+		/* animation-delay: 1s;
+        animation-iteration-count: 3;
+         */
+	}
+
+	&-primary--title {
+		padding-top: 1.4rem;
+		display: block;
+		font-size: 1.5rem;
+		font-weight: 550;
+		letter-spacing: 0.5rem;
+		animation: moveInRight 1.5s ease-out;
+	}
+}
+
+.resume-link {
+	animation: moveInBottom 0.5s ease-out 0.75s;
+	animation-fill-mode: backwards;
+}
