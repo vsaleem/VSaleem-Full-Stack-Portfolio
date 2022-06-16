@@ -9,16 +9,16 @@
 	background-size: cover;
 	background-position: bottom;
 	position: relative;
-	clip-path: polygon(
-		0 0,
-		100% 0,
-		100% 97%,
-		70% 97%,
-		70% 100%,
-		30% 100%,
-		30% 97%,
-		0 97%
-	);
+	// clip-path: polygon(
+	// 	0 0,
+	// 	100% 0,
+	// 	100% 97%,
+	// 	70% 97%,
+	// 	70% 100%,
+	// 	30% 100%,
+	// 	30% 97%,
+	// 	0 97%
+	// );
 
 	// '&' copies element selector name so we can nest
 	&__logo-box {
@@ -38,7 +38,7 @@
 	&-primary {
 		color: $color-white;
 		text-transform: uppercase;
-
+ 
 		/* removes jiggliness */
 		backface-visibility: hidden;
 		margin-bottom: 6rem;

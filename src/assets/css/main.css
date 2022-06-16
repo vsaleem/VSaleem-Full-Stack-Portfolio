@@ -237,8 +237,7 @@ p {
   background-image: linear-gradient(to right top, rgba(152, 206, 0, 0.2), rgba(220, 5, 228, 0.5)), url("./images/CleanWork2.png");
   background-size: cover;
   background-position: bottom;
-  position: relative;
-  clip-path: polygon(0 0, 100% 0, 100% 97%, 70% 97%, 70% 100%, 30% 100%, 30% 97%, 0 97%); }
+  position: relative; }
   .header__logo-box {
     position: absolute;
     top: 4rem;
