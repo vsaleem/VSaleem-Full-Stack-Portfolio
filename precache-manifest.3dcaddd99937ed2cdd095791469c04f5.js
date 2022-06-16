@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "131d581ad14ef9360400838fafae2b77",
+    "revision": "a8bd9e228cdb95741be2d4cf479c64fd",
     "url": "/VSaleem-Full-Stack-Portfolio/index.html"
   },
   {
-    "revision": "5808e7e02261bed52eaa",
+    "revision": "b8b19922df804126de1c",
     "url": "/VSaleem-Full-Stack-Portfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "e323b8bdc908f1240054",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/css/main.9e64303b.chunk.css"
+    "revision": "99e59350af340fdbbb14",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/css/main.7e663379.chunk.css"
   },
   {
-    "revision": "5808e7e02261bed52eaa",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.ae441764.chunk.js"
+    "revision": "b8b19922df804126de1c",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.735b032d.chunk.js"
   },
   {
     "revision": "4386012a6d334684338618496b7aac20",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.ae441764.chunk.js.LICENSE.txt"
+    "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.735b032d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e323b8bdc908f1240054",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/js/main.24f1466a.chunk.js"
+    "revision": "99e59350af340fdbbb14",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/js/main.e570db24.chunk.js"
   },
   {
     "revision": "268881e753af0bec332e",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e19c2aeef5dd4b5fabc807224f349757",
     "url": "/VSaleem-Full-Stack-Portfolio/static/media/NOTE TAKER - SCRN SHOT.e19c2aee.png"
+  },
+  {
+    "revision": "406c7c2731096c235f33cc439d281bbd",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/media/Victoria A.+Saleem_Front End Engineer-Resume.docx.406c7c27.pdf"
   },
   {
     "revision": "7c6e1ea3ae4d98b2f9a5550c36fc959a",
