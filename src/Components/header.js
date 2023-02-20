@@ -1,22 +1,17 @@
 import React from 'react';
-import Pdf from '../assets/css/Victoria A.+Saleem_Front End Engineer-Resume.docx.pdf';
+import Pdf from '../assets/files/Victoria A.+Saleem_Front End Engineer-Resume.docx.pdf';
 
-function Header(props) {
+const Header = () => {
 	return (
 		<>
-			{/* <!-- Header --> */}
 			<section id='header' className='header wrapper'>
-				{/* <!-- Logo --> */}
-				<div className='header__logo-box'></div>
-
-				{/* Heading */}
+				{/* Add Logo below later... */}
+				{/* <div className='header__logo-box'></div> */}
 				<div className='header__text-box'>
-					<h1 className='header-primary'>
-						<p className='header-primary--name'>Victoria Saleem</p>
+					<div className='header-primary'>
+						<p className='header-primary--name'>Vic Saleem</p>
 						<p className='header-primary--title'>Frontend Developer</p>
-					</h1>
-
-					{/* Button to Resume */}
+					</div>
 					<a href={Pdf} className='resume-link btn-text'>
 						Link to my Resume
 					</a>
@@ -24,6 +19,6 @@ function Header(props) {
 			</section>
 		</>
 	);
-}
+};
 
 export default Header;

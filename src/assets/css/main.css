@@ -137,6 +137,9 @@ p {
   box-shadow: 0 0.5rem 1rem rgba(8, 7, 8, 0.2);
   transform: translateY(0); }
 
+div .card {
+  border: none; }
+
 .card {
   perspective: 150rem;
   -moz-perspective: 150rem;

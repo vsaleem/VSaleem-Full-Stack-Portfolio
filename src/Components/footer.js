@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 function Footer() {
 	return (
@@ -36,7 +36,7 @@ function Footer() {
 						</a>
 					</div>
 					<div className='sticky-bottom'>
-						<p className='text-center'>&copy; 2020-2022 Victoria Saleem</p>
+						<p className='text-center'>&copy; 2020-2023 Victoria Saleem</p>
 					</div>
 				</div>
 			</section>
