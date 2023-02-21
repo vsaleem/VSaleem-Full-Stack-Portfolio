@@ -1,5 +1,4 @@
 import React from 'react';
-import ProfilePic from '../assets/css/images/profilepic.jpg';
 import { aboutMe } from '../utils/constants';
 
 const AboutMe = () => {
@@ -15,16 +14,11 @@ const AboutMe = () => {
 							<p className='about-me__body'>{aboutMe.PARAGRAPH.INTRO}</p>
 							<p className='about-me__body'>{aboutMe.PARAGRAPH.BODY}</p>
 							<p className='about-me__body'>{aboutMe.PARAGRAPH.CONCLUSION}</p>
-							<a href='#' className='btn-text'>
-								Learn More &rarr;
+							<a
+								href='http://www.linkedin.com/in/victoriasaleem'
+								className='btn-text'>
+								LinkedIn &rarr;
 							</a>
-						</div>
-						<div className='col'>
-							<img
-								src={ProfilePic}
-								alt='profile of Victoria'
-								className='composition__photo composition__photo_p1'
-							/>
 						</div>
 					</div>
 				</div>

@@ -6,7 +6,7 @@ const { READMEAPP } = Projects;
 
 const ReadMeGenerator = () => {
 	return (
-		<div className='col project__project-one'>
+		<div className='col-sm project__project-one'>
 			<div className='card'>
 				<div className='card__side card__side--front'>
 					<div className='card__image card__image-1'>

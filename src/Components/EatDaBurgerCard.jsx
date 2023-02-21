@@ -6,7 +6,7 @@ const { EATDABURGERAPP } = Projects;
 
 const EatDaBurgerApp = () => {
 	return (
-		<div className='col project__project-three'>
+		<div className='col-sm project__project-three'>
 			<div className='card'>
 				<div className='card__side card__side--front'>
 					<div className='card__image'>

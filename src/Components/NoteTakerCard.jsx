@@ -6,7 +6,7 @@ const { NOTETAKERAPP } = Projects;
 
 const NoteTaker = () => {
 	return (
-		<div className='col project__project-two'>
+		<div className='col-sm project__project-two'>
 			<div className='card'>
 				<div className='card__side card__side--front'>
 					<div className='card__image'>
