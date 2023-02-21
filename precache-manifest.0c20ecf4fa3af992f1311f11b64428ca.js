@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cb30301d2a454e53832e3eaef7cd0a0",
+    "revision": "ae9aeb0d33549b1a17695d69f951acfe",
     "url": "/VSaleem-Full-Stack-Portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VSaleem-Full-Stack-Portfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "9533f6b67ec86dab9d98",
+    "revision": "d1725474ca6a6edc6863",
     "url": "/VSaleem-Full-Stack-Portfolio/static/css/main.c4b02b2b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VSaleem-Full-Stack-Portfolio/static/js/2.185f70f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9533f6b67ec86dab9d98",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/js/main.05f0fb74.chunk.js"
+    "revision": "d1725474ca6a6edc6863",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/js/main.dd54622e.chunk.js"
   },
   {
     "revision": "268881e753af0bec332e",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VSaleem-Full-Stack-Portfolio/static/media/ReadmeAppScreenShot.d306f04d.png"
   },
   {
-    "revision": "406c7c2731096c235f33cc439d281bbd",
-    "url": "/VSaleem-Full-Stack-Portfolio/static/media/Victoria A.+Saleem_Front End Engineer-Resume.docx.406c7c27.pdf"
+    "revision": "5896562887f173c8d8e180f27eb987ea",
+    "url": "/VSaleem-Full-Stack-Portfolio/static/media/Vic Saleem_React_Front End Engineer.58965628.pdf"
   },
   {
     "revision": "7c6e1ea3ae4d98b2f9a5550c36fc959a",

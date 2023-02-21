@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VSaleem-Full-Stack-Portfolio/static/css/main.c4b02b2b.chunk.css",
-    "main.js": "/VSaleem-Full-Stack-Portfolio/static/js/main.05f0fb74.chunk.js",
-    "main.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/main.05f0fb74.chunk.js.map",
+    "main.js": "/VSaleem-Full-Stack-Portfolio/static/js/main.dd54622e.chunk.js",
+    "main.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/main.dd54622e.chunk.js.map",
     "runtime-main.js": "/VSaleem-Full-Stack-Portfolio/static/js/runtime-main.4ad39c9b.js",
     "runtime-main.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/runtime-main.4ad39c9b.js.map",
     "static/css/2.11829350.chunk.css": "/VSaleem-Full-Stack-Portfolio/static/css/2.11829350.chunk.css",
     "static/js/2.185f70f4.chunk.js": "/VSaleem-Full-Stack-Portfolio/static/js/2.185f70f4.chunk.js",
     "static/js/2.185f70f4.chunk.js.map": "/VSaleem-Full-Stack-Portfolio/static/js/2.185f70f4.chunk.js.map",
     "index.html": "/VSaleem-Full-Stack-Portfolio/index.html",
-    "precache-manifest.4d7fce90aa37caaf1f60c9e8ba45f783.js": "/VSaleem-Full-Stack-Portfolio/precache-manifest.4d7fce90aa37caaf1f60c9e8ba45f783.js",
+    "precache-manifest.0c20ecf4fa3af992f1311f11b64428ca.js": "/VSaleem-Full-Stack-Portfolio/precache-manifest.0c20ecf4fa3af992f1311f11b64428ca.js",
     "service-worker.js": "/VSaleem-Full-Stack-Portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/VSaleem-Full-Stack-Portfolio/static/css/2.11829350.chunk.css.map",
     "static/css/main.c4b02b2b.chunk.css.map": "/VSaleem-Full-Stack-Portfolio/static/css/main.c4b02b2b.chunk.css.map",
@@ -17,7 +17,7 @@
     "static/media/main.css": "/VSaleem-Full-Stack-Portfolio/static/media/CleanWork2.0c029787.png",
     "static/media/NOTE TAKER - SCRN SHOT.png": "/VSaleem-Full-Stack-Portfolio/static/media/NOTE TAKER - SCRN SHOT.e19c2aee.png",
     "static/media/ReadmeAppScreenShot.png": "/VSaleem-Full-Stack-Portfolio/static/media/ReadmeAppScreenShot.d306f04d.png",
-    "static/media/Victoria A.+Saleem_Front End Engineer-Resume.docx.pdf": "/VSaleem-Full-Stack-Portfolio/static/media/Victoria A.+Saleem_Front End Engineer-Resume.docx.406c7c27.pdf",
+    "static/media/Vic Saleem_React_Front End Engineer.pdf": "/VSaleem-Full-Stack-Portfolio/static/media/Vic Saleem_React_Front End Engineer.58965628.pdf",
     "static/media/healthy-turkey-burger.jpg": "/VSaleem-Full-Stack-Portfolio/static/media/healthy-turkey-burger.7c6e1ea3.jpg"
   },
   "entrypoints": [
@@ -25,6 +25,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.185f70f4.chunk.js",
     "static/css/main.c4b02b2b.chunk.css",
-    "static/js/main.05f0fb74.chunk.js"
+    "static/js/main.dd54622e.chunk.js"
   ]
 }
