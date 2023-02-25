@@ -1,5 +1,5 @@
 import React from 'react';
-import Pdf from '../assets/files/Victoria A.+Saleem_Front End Engineer-Resume.docx.pdf';
+import Pdf from '../assets/files/Vic Saleem_React_Front End Engineer.pdf';
 
 const Header = () => {
 	return (
@@ -12,9 +12,9 @@ const Header = () => {
 						<p className='header-primary--name'>Vic Saleem</p>
 						<p className='header-primary--title'>Frontend Developer</p>
 					</div>
-					<a href={Pdf} className='resume-link btn-text'>
+					{/* <a href={Pdf} className='resume-link btn-text'>
 						Link to my Resume
-					</a>
+					</a> */}
 				</div>
 			</section>
 		</>
